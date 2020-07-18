@@ -1,0 +1,21 @@
+sudo: false
+language: node_js
+node_js:
+  - 10 # use nodejs v10 LTS
+cache: npm
+branches:
+  only:
+    - gh-pages-source # build gh-pages-source branch only
+script:
+  - hexo generate # generate static files
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: false
+  target_branch: master
+  email: yanxing090028@gmail.com
+  name: learn
+  local_dir: public/
+  on:
+    branch: gh-pages-source
