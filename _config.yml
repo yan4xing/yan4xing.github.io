@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: YanXing's Blog
+title: YanXing's Webpage
 subtitle: ''
 description: "YanXing's WebPage"
 keywords:
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: brewski
+theme: landscape
 theme_config:
   logo:
   google_analytics: 'UA-90773148-1'
@@ -103,7 +103,7 @@ theme_config:
     url: http://yanxing.tech
   menu:
     Home: /
-    About: /1995/03/22/about-me/
+    About: /2020/07/20/about-me/
     GitHub: https://github.com/yan4xing
     RSS: /atom.xml
 # Deployment
