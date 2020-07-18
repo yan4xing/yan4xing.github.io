@@ -5,9 +5,9 @@
 # Site
 title: YanXing's Blog
 subtitle: ''
-description: ''
+description: "YanXing's WebPage"
 keywords:
-author: John Doe
+author: Yan Xing
 language: en
 timezone: ''
 
@@ -100,10 +100,10 @@ theme_config:
   copyright:
     since: 2020
     name: Yan Xing
-    url: https://www.example.org/john-doe
+    url: http://yanxing.tech
   menu:
     Home: /
-    About: /about
+    About: /1995/03/22/about-me/
     GitHub: https://github.com/yan4xing
     RSS: /atom.xml
 # Deployment
