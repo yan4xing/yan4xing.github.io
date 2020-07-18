@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YanXing&#39;s Webpage</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yanxing.tech/"/>
+  <updated>2020-07-18T14:06:45.395Z</updated>
+  <id>http://yanxing.tech/</id>
+  
+  <author>
+    <name>Yan Xing</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>about-me</title>
+    <link href="http://yanxing.tech/2020/07/20/about-me/"/>
+    <id>http://yanxing.tech/2020/07/20/about-me/</id>
+    <published>2020-07-20T19:08:17.000Z</published>
+    <updated>2020-07-18T14:06:45.395Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Welcome!</strong></p><p>I am Yan Xing, a postdoc researcher at School of instrumentation and optoelectronic Engineering, Beihang University, working with Prof. <a href="http://idlab.buaa.edu.cn/yjtd/wqhxqy/wqh.htm" target="_blank" rel="noopener">Qiong-Hua Wang</a>. </p><p>I got my PhD degree from Sichuan University, College of Electronics And Information Engineering.</p><p>My research interests include: Stereo display; Light field; 3D imaging; Computational imaging.</p><p><strong>Contact</strong></p><p>Address: No. 238 North Fourth Ring Road, Haidian District, Beijing, CA 100191<br>Email: <a href="mailto:yanxing@buaa.edu.cn">yanxing@buaa.edu.cn</a><br>Website: yanxing.tech</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Welcome!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am Yan Xing, a postdoc researcher at School of instrumentation and optoelectronic Engineering, Beihang
+      
+    
+    </summary>
+    
+    
+      <category term="Other" scheme="http://yanxing.tech/categories/Other/"/>
+    
+    
+      <category term="Essay" scheme="http://yanxing.tech/tags/Essay/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yanxing.tech/2020/07/18/hello-world/"/>
+    <id>http://yanxing.tech/2020/07/18/hello-world/</id>
+    <published>2020-07-18T14:06:45.395Z</published>
+    <updated>2020-07-18T14:06:45.395Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
