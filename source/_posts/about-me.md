@@ -7,7 +7,6 @@ categories:
 - Other
 ---
 
-## Home
 **Welcome!**
 
 I am Yan Xing, a postdoc researcher at School of instrumentation and optoelectronic Engineering, Beihang University, working with Prof. [Qiong-Hua Wang](http://idlab.buaa.edu.cn/yjtd/wqhxqy/wqh.htm). 
@@ -22,6 +21,4 @@ My research interests include: Stereo display; Light field; 3D imaging; Computat
 Address: No. 238 North Fourth Ring Road, Haidian District, Beijing, CA 100191
 Email: yanxing@buaa.edu.cn
 Website: yanxing.tech
-
-## Publication
 

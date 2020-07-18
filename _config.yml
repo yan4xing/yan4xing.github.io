@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: brewski
 theme_config:
   logo:
   google_analytics: 'UA-90773148-1'
